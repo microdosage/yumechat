@@ -1,0 +1,12 @@
+{
+  "name": "sua-aplicacao",
+  "version": "1.0.0",
+  "description": "Uma aplicação Node.js para enviar mensagens ao banco de dados",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
